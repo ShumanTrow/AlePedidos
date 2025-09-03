@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "916023538629",
+    "project_id": "alepedidos-5ce4c",
+    "storage_bucket": "alepedidos-5ce4c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916023538629:android:6f59dcc4fec134326991ac",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2R1r-76GEL8DoY2ipMJWgSUsboDXVPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916023538629:android:f405fef92b136b246991ac",
+        "android_client_info": {
+          "package_name": "com.example.alepedidos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg2R1r-76GEL8DoY2ipMJWgSUsboDXVPk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
